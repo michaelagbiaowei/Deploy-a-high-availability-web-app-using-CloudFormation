@@ -1,0 +1,3 @@
+THIS SITE CONTAINS LOAD BALANCER DNS LINK TO VIEW RUNNING WEB SERVER
+
+http://proje-webap-1n61bufto1j0n-1508153969.us-east-1.elb.amazonaws.com/
